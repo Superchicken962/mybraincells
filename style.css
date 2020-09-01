@@ -1,0 +1,58 @@
+.center {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    display: block;
+    border: 5px outset black;
+    padding: 20px 20px;
+    background-color: yellow;
+}
+
+.image1 {
+    text-align: center;
+    display: block;
+    border: 5px outset blue;
+    padding: 15px 15px;
+    margin: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.jokebutton {
+    text-align: center;
+    display: block;
+    border: 5px outset gold;
+    padding: 10px 10px;
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    background-color: lightgrey;
+    text-decoration: none;
+}
+
+.jokebutton:hover {
+    text-align: center;
+    display: block;
+    background-color: grey;
+}
+
+.jokebutton:active {
+    text-align: center;
+    display: block;
+    padding: 8px 8px;
+    background-color: grey;
+    width: 28%;
+    height: 28%;
+}
+
+.textr1 {
+    text-align: center;
+    color: white;
+}
+
+.count {
+    text-align: center;
+    margin: auto;
+}
