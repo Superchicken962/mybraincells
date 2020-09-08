@@ -7,7 +7,7 @@
     display: block;
     border: 5px outset black;
     padding: 20px 20px;
-    background-color: #d699ff;
+    background-color: lightgreen;
 }
 
 .image1 {
@@ -17,6 +17,7 @@
     margin: auto;
     width: 40%;
     height: 40%;
+    background-color: #8a2be2;
 }
 
 .jokebutton {
@@ -27,21 +28,21 @@
     width: 30%;
     height: 30%;
     margin: auto;
-    background-color: pink;
+    background-color: skyblue;
     text-decoration: none;
 }
 
 .jokebutton:hover {
     text-align: center;
     display: block;
-    background-color: hotpink;
+    background-color: blue;
 }
 
 .jokebutton:active {
     text-align: center;
     display: block;
     padding: 8px 8px;
-    background-color: hotpink;
+    background-color: blue;
     width: 28%;
     height: 28%;
 }
@@ -63,4 +64,8 @@
     border: 10px outset gold;
     width: 25%;
     color: black;
+}
+
+.backgroundcolor {
+    background-color: #8a2be2;
 }
