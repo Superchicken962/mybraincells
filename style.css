@@ -113,7 +113,7 @@
 .updates {
     background-color: lime;
     width: 40%;
-    height: 310px;
+    height: auto;
     margin: auto;
     border: 10px outset coral;
 }
