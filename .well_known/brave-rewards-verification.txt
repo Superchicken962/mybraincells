@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mybraincells.cf
+Token: 9e84bb5d90c1dc031df5125e7418ed67677b6605239d1fde2cb055d44a8d7485
