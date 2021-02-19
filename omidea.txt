@@ -1,0 +1,34 @@
+[640]
+
+Ruhleben - ?
+
+-via Omnibushof
+-connects with 650 / 650B when arriving at ruhleben
+
+[681]
+
+Rathaus - Freudstr
+
+-via altstadt ring (falk platz)
+-via altstadt spandau (possibly)
+
+[682]
+
+Rathaus - Nervenklinik
+
+-via altstadt ring (falk platz)
+-via altstadt spandau (possibly)
+
+[N68]
+
+Rathaus - Nervenklinik
+
+-via altstadt ring (falk platz)
+-via altstadt spandau (possibly)
+-via freudstr
+
+[137F]
+
+Hahneberg - Falk bhf
+
+-skips altstadt spandau
