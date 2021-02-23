@@ -11,10 +11,45 @@
 <a href="jokes.html" class="jokebutton">Click to See Jokes</a>
 
 <br>
-
+<h2 class="date">Today's Date: <a id="date">0/0/0</a></h2>
 <div class="updates">
 
 <h1 id="newsupdates-title"> News & Updates</h1>
+
+<button id="showjokesbutton" type="button" class="collapsible updatebox">Tweaked website</button>
+<div class="content">
+<div id="textbox">
+<h4>23/02/2021</h4>
+<h3>• Changed the text colour of the jokes button to be white when hovered over and when clicked (for visibility reasons)
+<br>• Added text that tells you the date
+<br>
+<br>Coming Soon:
+<br>• Different versions of the website will be active on different events
+<br>• Possibly text under the date that will tell you the time</h3>
+</div>
+</div>
+
+<br>
+
+<button id="showjokesbutton" type="button" class="collapsible updatebox">Shutting down .tk domain :(</button>
+<div class="content">
+<div id="textbox">
+<h4>12/11/2020</h4>
+<h3>Sadly, <a href="https://mybraincells.tk">mybraincells.tk</a> Will be shut down due to the amount of work needed to manage two domains :(<br>This was a tough choice, but it had to happen.<br>We can now just focus on the main domain! <a href="https://mybraincells.cf">mybraincells.cf</a><br><br>For now, the .tk domain will redirect you to the .cf one until it shuts down completely (the .tk domain.)</h3>
+</div>
+</div>
+
+<br>
+
+<button id="showjokesbutton" type="button" class="collapsible updatebox">New Discord Webhook</button>
+<div class="content">
+<div id="textbox">
+<h4>12/11/2020</h4>
+<h3>yeah we have a new domain at <a href="https://mybraincells.tk">mybraincells.tk</a><br><br>the domain subpages wont recieve all the updates that the normal website subpages will.</h3>
+</div>
+</div>
+
+<br>
 
 <button id="showjokesbutton" type="button" class="collapsible updatebox">Checkout the Discord connections!!!</button>
 <div class="content">
@@ -83,7 +118,13 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+var dmy = new Date();
+var date = dmy.getDate()+'/'+(dmy.getMonth()+1)+'/'+dmy.getFullYear();
+document.getElementById("date").innerHTML = date;
+
 </script>
+
 </div>
 </head>
 </body>

@@ -36,6 +36,7 @@
     text-align: center;
     display: block;
     background-color: blue;
+    color: white;
 }
 
 .jokebutton:active {
@@ -45,6 +46,7 @@
     background-color: blue;
     width: 28%;
     height: 28%;
+    color: white;
 }
 
 .textr1 {
@@ -116,4 +118,10 @@
     height: auto;
     margin: auto;
     border: 10px outset coral;
+}
+
+.date {
+    color: white;
+    font-size: 35px;
+    text-align: center;
 }
