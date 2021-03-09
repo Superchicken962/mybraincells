@@ -1,6 +1,6 @@
 body {
 color: red;
-background-image: trolled.png;
+background-image: url("trolled.png");
 content: "Hello There";
 font-size: 72px;
 }
