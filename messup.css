@@ -6,6 +6,10 @@ background-repeat: no-repeat;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-content: "Trolled";
 font-size: 72px;
+}
+
+h1 {
+  content: "gone...";
+  color: red;
 }
