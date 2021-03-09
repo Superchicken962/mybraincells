@@ -1,7 +1,11 @@
 body {
 color: red;
-background-image: url("trolled.png");
+background-image: url("trolled.png") no-repeat center center fixed;
 background-repeat: no-repeat;
-content: "Hello There";
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+content: "Trolled";
 font-size: 72px;
 }
