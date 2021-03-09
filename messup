@@ -1,0 +1,6 @@
+body {
+color: red;
+background-color: blue;
+content: "Hi";
+font-size: 72px;
+}
