@@ -1,10 +1,10 @@
 body {
-background-image: url("trolled.png") no-repeat center center fixed;
-background-repeat: no-repeat;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+  background-image: url("trolled.png") no-repeat center center fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1 {
