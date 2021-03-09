@@ -1,6 +1,7 @@
 body {
 color: red;
 background-image: url("trolled.png");
+background-repeat: no-repeat;
 content: "Hello There";
 font-size: 72px;
 }
